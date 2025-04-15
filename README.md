@@ -1,4 +1,4 @@
-# Exercise: John Doe's Resume
+# Exercise: Nick Mucciaro Resume
 
 !NOTE! The "Jon Doe" is a placeholder for your first and last names.
 
@@ -60,27 +60,27 @@ This assignment should prove that a student is able to:
 
 All the tasks in the requirements are related to the index.html file! Consider "Jon Doe" to be replaced with your real first and last name.
 
-- [ ] Create an html file with the name of "index" in the root of the project
-- [ ] Add HTML Boilerplate to the document
-- [ ] Set the document title to be "Jon Doe's resume".
-- [ ] Set the page heading to be "Jon Doe"
-- [ ] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
-- [ ] Add an image with required and important attributes
-  - [ ] The image path should be `./assets/avatars/fake_person.jpg`. This image is included into the project already.
-  - [ ] The image alternative text should match the page title.
-- [ ] Add a section heading with the content of "About Me".
-- [ ] Add a paragraph of text (50 words at least) as the John Doe's bio. You can use random text for the paragraph content.
-- [ ] Add the section heading "My Skills"
-- [ ] Add the ORDERED list and add 6 random item into it. (Feel free to use the devslopes website to get the real skill names or use some random skill names)
-- [ ] Add the section heading "My Hobbies"
-- [ ] Add the UNORDERED list of 4 hobbies
-- [ ] Add the section heading "Contact Me"
-- [ ] Add the table of two columns and 4 rows. The first column for every row is the table header with the service name. The second column is for the value.
-- [ ] Add Discord as a service and your discord's real username as a value to the table.
-- [ ] Add LinkedIn as a service and your linkedIn's real username as a value to the table. Make the value to be a link to your LinkedIn profile page opened in a new tab.
-- [ ] Add Email as a service and your real email as the value. Make it to be a link that starts the new email message app.
-- [ ] Add Github as a service and use your real github username as a value. Make the value to be a link that leads to your github profile in a new browser tab.
-- [ ] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p1-solved-mockup.png).
+- [x] Create an html file with the name of "index" in the root of the project
+- [x] Add HTML Boilerplate to the document
+- [x] Set the document title to be "Jon Doe's resume".
+- [x] Set the page heading to be "Jon Doe"
+- [x] Add a section heading with the content of "Talented Frontend developer" that represents the desired role.
+- [x] Add an image with required and important attributes
+  - [x] The image path should be `./assets/avatars/fake_person.jpg`. This image is included into the project already.
+  - [x] The image alternative text should match the page title.
+- [x] Add a section heading with the content of "About Me".
+- [x] Add a paragraph of text (50 words at least) as the John Doe's bio. You can use random text for the paragraph content.
+- [x] Add the section heading "My Skills"
+- [x] Add the ORDERED list and add 6 random item into it. (Feel free to use the devslopes website to get the real skill names or use some random skill names)
+- [x] Add the section heading "My Hobbies"
+- [x] Add the UNORDERED list of 4 hobbies
+- [x] Add the section heading "Contact Me"
+- [x] Add the table of two columns and 4 rows. The first column for every row is the table header with the service name. The second column is for the value.
+- [x] Add Discord as a service and your discord's real username as a value to the table.
+- [x] Add LinkedIn as a service and your linkedIn's real username as a value to the table. Make the value to be a link to your LinkedIn profile page opened in a new tab.
+- [x] Add Email as a service and your real email as the value. Make it to be a link that starts the new email message app.
+- [x] Add Github as a service and use your real github username as a value. Make the value to be a link that leads to your github profile in a new browser tab.
+- [x] Check the result mockup to make sure your page looks EXACTLY as the mockup (/assets/images/p1-solved-mockup.png).
 
 ### Part 2: Testing the magic of id and class attributes
 
